@@ -9,7 +9,7 @@
     "react": "^0.12.0",
     "amp-merge": "^1.0.0",
     "cargo-bay": "^1.0.2",
-    "lcars": "^1.0.6"
+    "lcars": "^1.0.8"
   },
   "devDependencies": {
     "browserify": "^6.2.0",
